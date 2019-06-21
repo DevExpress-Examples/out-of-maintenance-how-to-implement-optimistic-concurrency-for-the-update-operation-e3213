@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement optimistic concurrency for the update operation
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3213/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to implement the optimistic concurrency for the update operation performed by ASPxGridView.<br />
